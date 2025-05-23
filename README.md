@@ -15,7 +15,8 @@ Through engaging activities such as **personality assessments**, **CV building**
 
 > 🗓 **Assessment Duration:** 19 – 23 May 2025  
 > 💻 **Submitted via GitHub** | 📎 **Link submitted on Blackboard**  
-> 👩‍🎓 **Student Name:** Siganeko Ninzi  
+> 👩‍🎓 **Student Name:** Siganeko Ninzi
+>  **Email:** ninzisiganeko@gmail.com
 > 🎓 **Qualification:** Diploma in Information and Communication Technology
 
 ---
